@@ -1,0 +1,4 @@
+Graphic "M_DOOM", 120, 80
+{
+	Patch "M_DOOM", 0, 0
+}

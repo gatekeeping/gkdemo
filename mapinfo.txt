@@ -1,0 +1,24 @@
+gameinfo {
+	DimColor = "00 00 00"
+}
+
+clearskills
+
+skill Normal {
+	SpawnFilter = Normal
+	Key = "n"
+	Name = "$SKILL_NORMAL"
+	DefaultSkill
+}
+
+cluster 1 { hub }
+
+map titlemap "GateKeep Demo" { }
+
+defaultmap {
+	Cluster = 1
+	EvenLighting
+	NoInfighting
+	NoIntermission
+	CheckSwitchRange
+}
