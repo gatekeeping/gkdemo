@@ -7,6 +7,6 @@ defaultmap {
 
 map MAP01 {
 	ZoneSize = 4096
-	PlayfieldSize = 128
+	PlayfieldSize = 8
 	GatewayLines = 15
 }
