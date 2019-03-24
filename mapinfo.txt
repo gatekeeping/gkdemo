@@ -22,3 +22,13 @@ defaultmap {
 	NoIntermission
 	CheckSwitchRange
 }
+
+map MAP02 "Map 2" {
+	sky1 = "sky", 0
+	skystretch
+	fade = "00 00 01"
+	outsidefog = "88 88 99"
+	fogdensity = 300
+	outsidefogdensity = 100
+	skyfog = 100
+}
