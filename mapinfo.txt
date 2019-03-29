@@ -32,3 +32,16 @@ map MAP02 "Map 2" {
 	outsidefogdensity = 100
 	skyfog = 100
 }
+
+DoomEdNums {
+  11001 = GKD_Tree1
+  11002 = GKD_Tree2
+  11003 = GKD_Tree3
+  11004 = GKD_Tree4
+  11011 = GKD_TreeBrown1
+  11012 = GKD_TreeBrown2
+  11013 = GKD_TreeBrown3
+  11014 = GKD_TreeBrown4
+  11021 = GKD_Shrub1
+  11022 = GKD_Shrub2
+}
